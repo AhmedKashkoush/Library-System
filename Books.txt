@@ -1,0 +1,5 @@
+2-109-17421-3|file organization|mohamed kareem|B.B.|2019|14294612329|15
+1-271-41223-0|operating systems|B.Michael|publishing house|2020|33100475211|8
+3-111-22524-1|operation researches|ghada karam|Nirali Prakashan|2017|22251446313|6
+6-676-31333-5|system analysis|D.Danial|publishing house|2018|43415794442|1
+1-271-41223-0|How to program?|C.Arnold|Prentice-Hall|2017|12310789562|0
